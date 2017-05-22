@@ -1,0 +1,2 @@
+driverClassName=com.mysql.jdbc.Driver
+validationQuery=SELECT 1
